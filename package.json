@@ -1,0 +1,13 @@
+{
+  "name": "com.ncrqa.mathsandmesh",
+  "version": "1.0.0",
+  "displayName": "NC-RQA: Maths And Mesh Library",
+  "description": "This is a package aimed at providing re-usable mesh and math code between projects",
+  "dependencies": {
+    "com.unity.entities": "1.0.0-pre.65"
+  },
+  "author": {
+    "name": "NC-RQA",
+    "email": "a.pilmore-bedford@unity3d.com"
+  }
+}
